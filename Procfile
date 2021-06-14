@@ -1,1 +1,1 @@
-web: gunicorn family_tree.wsgi
+web: gunicorn graduation.wsgi
